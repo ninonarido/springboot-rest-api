@@ -1,9 +1,2 @@
-# "springboot-rest-api" 
+"# springboot-rest-api" 
 
-# echo "# springboot-rest-api" >> README.md
-# git init
-# git add README.md
-# git commit -m "first commit"
-# git branch -M main
-# git remote add origin https://github.com/ninonarido/springboot-rest-api.git
-# git push -u origin main
